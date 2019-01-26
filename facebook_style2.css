@@ -282,7 +282,7 @@ footer {
 	margin: 7px 10px 7px 0px;
 	background-color: white;
 }
-.invalidated:invalid {
+.invalidated:target {
 	background-image:url(facebook_icons_2.png);
 	background-size:18px 18px;
 	background-repeat:no-repeat;
