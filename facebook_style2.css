@@ -169,12 +169,12 @@ footer {
 	font-size: 1.14em;
 }
 .mainForm {
-	position: absolute;
+	position: relative;
 	float:right;
 	right: 110px;
 	width: 500px;
 	display: block;
-	
+	margin-right:;
 	height: inherit;
 	margin: 0;
 	padding-left:35px;
